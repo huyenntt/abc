@@ -2,7 +2,7 @@
  * test1.cc
  *
  *  Created on: May 25, 2016
- *      Author: admin
+ *      Author: Huyen
  */
 #include <algorithm>
 #include <cstddef>
